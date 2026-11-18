@@ -1,5 +1,10 @@
-# 💫 About Me:
-- 🎓 Estudante de Engenharia de Software com foco em desenvolvimento Backend.<br>- 💻 Atualmente desenvolvendo projetos práticos em Java e modelagem de bancos de dados com SQL.<br>- 🌱 Aprofundando meus conhecimentos na base da linguagem Java e arquitetura de software.<br>- 👯 Aberto a colaborações em projetos e estudos voltados para o mundo Java.<br>- 🎯 Em busca da minha primeira oportunidade de estágio como Desenvolvedor Java.
+## 💫 Sobre mim:
+
+- 🎓 Estudante de Engenharia de Software com foco em desenvolvimento Backend.
+- 💻 Atualmente desenvolvendo projetos práticos em Java e modelagem de bancos de dados com SQL.
+- 🌱 Aprofundando meus conhecimentos na base da linguagem Java e arquitetura de software.
+- 👯 Aberto a colaborações em projetos e estudos voltados para o mundo Java.
+- 🎯 Em busca da minha primeira oportunidade de estágio como Desenvolvedor Java.
 
 
 ## 🌐 Socials:
