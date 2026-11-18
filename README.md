@@ -1,3 +1,5 @@
+![Imagem de boas vindas](./github-header-banner.png)
+
 ## 💫 Sobre mim:
 
 - 🎓 Estudante de Engenharia de Software com foco em desenvolvimento Backend.
